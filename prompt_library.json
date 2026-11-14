@@ -1,0 +1,11 @@
+{
+  "library_version": "1.3",
+  "brand": "Brewlane Coffee",
+  "prompts": [
+    {"id": "content_calendar", "version": "1.2", "variables": ["month", "focus"]},
+    {"id": "ad_copy", "version": "1.1", "variables": ["platform", "offer", "pain_point"]},
+    {"id": "email_newsletter", "version": "1.1", "variables": ["story", "bean", "offer"]},
+    {"id": "seo_blog_outline", "version": "1.0", "variables": ["keyword", "intent"]},
+    {"id": "customer_faq", "version": "1.0", "variables": ["questions", "policies"]}
+  ]
+}
